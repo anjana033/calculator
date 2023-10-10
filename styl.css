@@ -1,0 +1,18 @@
+.parent{
+    background-color:cadetblue;
+    width: 590px;
+    height: 500px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    display: flex justify-center item-center;
+}
+.tab{
+    background-color:antiquewhite ;
+    width: 490px;
+    height: 100px;
+    display: flex;
+    padding-left: 0%;
+    padding-bottom: 50px;
+}
